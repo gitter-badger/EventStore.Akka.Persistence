@@ -1,4 +1,5 @@
 ### Event Store Journal and Snapshot Store for Akka Persistence [![Build Status](https://travis-ci.org/EventStore/EventStore.Akka.Persistence.png?branch=master)](https://travis-ci.org/EventStore/EventStore.Akka.Persistence)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/EventStore/EventStore.Akka.Persistence?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Akka Persistence](http://doc.akka.io/docs/akka/2.3.6/scala/persistence.html) journal and snapshot-store backed by [Event Store](http://geteventstore.com/).
 
